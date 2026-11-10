@@ -1,0 +1,595 @@
+html.sd-theme body{color:#3b0101;background-color:#f8dddd}
+html.sd-theme .sidebar-wrapper {
+	background: #680202;
+	border-right: 1px solid #74111100
+}
+html.sd-theme .sidebar-wrapper .sidebar-header {
+	background: #680202;
+	border-right: 1px solid #8d080800;
+	border-bottom: 1px solid rgba(88, 4, 4, 0.15)
+}
+html.sd-theme .sidebar-wrapper .sidebar-header .logo-text {
+	color: #e7e9ec
+}
+html.sd-theme .sidebar-wrapper .sidebar-header .toggle-icon {
+	color: #e7e9ec
+}
+html.sd-theme .sidebar-wrapper .metismenu a {
+	color: #9ea4aa
+}
+html.sd-theme .sidebar-wrapper .metismenu .mm-active>a, html.sd-theme .sidebar-wrapper .metismenu a:active, html.sd-theme .sidebar-wrapper .metismenu a:focus, html.sd-theme .sidebar-wrapper .metismenu a:hover {
+	color: #fff;
+	text-decoration: none;
+	background: rgb(255 255 255 / 18%)
+}
+html.sd-theme .sidebar-wrapper .metismenu ul {
+	border: 1px solid #ffffff00;
+	background: rgb(255 255 255 / 8%)
+}
+html.sd-theme .simplebar-scrollbar:before {
+	background: rgba(255, 255, 255, .4)
+}
+html.sd-theme .logo-icon {
+	filter: invert(1) grayscale(100%) brightness(200%)
+}
+html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-1, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-10, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-11, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-12, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-2, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-3, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-4, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-5, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-6, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-7, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-8, html.ColorLessIcons .sidebar-wrapper .metismenu .icon-color-9 {
+	color: inherit
+}
+ 
+
+html.sd-theme .topbar{background-color:#680202;border-bottom:1px solid rgba(88, 4, 4, 0.12)}
+html.sd-theme .page-footer{background-color:#680202;border-bottom:1px solid rgba(88, 4, 4, 0.12); color:white}
+html.sd-theme .user-box{border-left:1px solid rgba(88, 4, 4, 0.15)}
+html.sd-theme .user-info .user-name{color:#e4e5e6}html.sd-theme .user-info .designattion{color:#e9d1d1}
+
+html.sd-theme .search-bar .btn-search{background:#741111;border:1px solid rgba(88, 4, 4, 0.3)}
+html.sd-theme .search-bar .btn-search i{color:#e4e5e6}
+html.sd-theme .search-bar-box{color:#ffffff}
+html.sd-theme .dropdown-menu{color:#5a1919;background-color:#dfebf7;box-shadow:0 .5rem 1rem rgba(88, 4, 4, 0.3)}
+html.sd-theme .dropdown-item{color:#741111}
+html.sd-theme .dropdown-menu .dropdown-item:hover{background-color:#741111;color:#e4e5e6;}
+html.sd-theme .dropdown-divider{border-top:1px solid rgba(88, 4, 4, 0.12)}
+html.sd-theme .dropdown-large .dropdown-menu .dropdown-item{border-bottom:1px solid rgba(88, 4, 4, 0.12)}
+html.sd-theme .dropdown-large .msg-name{color:#fff}html.sd-theme .dropdown-large .msg-info{color:#741111}
+html.sd-theme .dropdown-large .msg-time{color:#741111}
+html.sd-theme .dropdown-large .msg-header{border-bottom:1px solid rgba(88, 4, 4, 0.15);background:0 0}
+html.sd-theme .dropdown-large .msg-header .msg-header-title{color:#e4e5e6}
+html.sd-theme .dropdown-large .msg-header .msg-header-clear{color:#741111}
+html.sd-theme .dropdown-large .msg-footer{color:#d1d7de;border-top:1px solid rgba(88, 4, 4, 0.15)}
+html.sd-theme .mobile-toggle-menu{color:#e4e5e6}
+html.sd-theme .toggle-icon{color:#e7e9ec}
+html.sd-theme .topbar .navbar-nav .nav-link{border-left:0 solid rgba(88, 4, 4, 0.12);color:#e4e5e6}
+html.sd-theme .search-bar input{color:#e4e5e6;background-color:#741111;border:1px solid rgba(88, 4, 4, 0.15);box-shadow:inset 0 1px 2px rgba(68, 1, 1, 0)}
+
+
+html.sd-theme .btn-secondary {
+	color: #fff;
+	background-color: #8a6767;
+	border-color: #4d2323
+}
+html.sd-theme .btn-secondary:hover {
+	color: #fff;
+	background-color: #8a6767;
+	border-color: #4d2323
+}
+html.sd-theme .btn-check:focus+.btn-secondary, html.sd-theme .btn-secondary:focus {
+	color: #fff;
+	background-color: #8a6767;
+	border-color: #4d2323;
+	box-shadow: 0 0 0 .25rem rgba(167, 114, 114, 0.5)
+}
+ 
+html.sd-theme .btn-secondary.disabled, html.sd-theme .btn-secondary:disabled {
+	color: #fff;
+	background-color: #8a6767;
+	border-color: #4d2323
+}
+
+html.sd-theme .bg-secondary {
+	background-color: #b47b7b !important;
+  }
+
+html.sd-theme .btn-outline-primary {
+	color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-outline-primary:hover {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-check:focus+.btn-outline-primary, html.sd-theme .btn-outline-primary:focus {
+	box-shadow: 0 0 0 .25rem rgba(167, 114, 114, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-outline-primary, html.sd-theme .btn-check:checked+.btn-outline-primary, html.sd-theme .btn-outline-primary.active, html.sd-theme .btn-outline-primary.dropdown-toggle.show, html.sd-theme .btn-outline-primary:active {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-check:active+.btn-outline-primary:focus, html.sd-theme .btn-check:checked+.btn-outline-primary:focus, html.sd-theme .btn-outline-primary.active:focus, html.sd-theme .btn-outline-primary.dropdown-toggle.show:focus, html.sd-theme .btn-outline-primary:active:focus {
+	box-shadow: 0 0 0 .25rem rgba(167, 114, 114, 0.5)
+}
+html.sd-theme .btn-outline-primary.disabled, html.sd-theme .btn-outline-primary:disabled {
+	color: #741111;
+	background-color: transparent
+}
+
+html.sd-theme .btn-primary {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-primary:hover {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-check:focus+.btn-primary, html.sd-theme .btn-primary:focus {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303;
+	box-shadow: 0 0 0 .25rem rgba(167, 114, 114, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-primary, html.sd-theme .btn-check:checked+.btn-primary, html.sd-theme .btn-primary.active, html.sd-theme .btn-primary:active, .show>.btn-primary.dropdown-toggle {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .btn-check:active+.btn-primary:focus, html.sd-theme .btn-check:checked+.btn-primary:focus, html.sd-theme .btn-primary.active:focus, html.sd-theme .btn-primary:active:focus, .show>.btn-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .25rem rgba(167, 114, 114, 0.5)
+}
+html.sd-theme .btn-primary.disabled, html.sd-theme .btn-primary:disabled {
+	color: #fff;
+	background-color: #741111;
+	border-color: #550303
+}
+html.sd-theme .bg-primary {
+	background-color: #741111 !important;
+	color: #fff;
+  }
+html.sd-theme .bg-light-primary {
+	background-color: #bfcbd4 !important;
+	color: #741111;
+  }
+
+
+html.sd-theme .btn-danger {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #990008
+}
+html.sd-theme .btn-danger:hover {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224
+}
+html.sd-theme .btn-check:focus+.btn-danger, html.sd-theme .btn-danger:focus {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224;
+	box-shadow: 0 0 0 .25rem rgba(110, 75, 75, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-danger, html.sd-theme .btn-check:checked+.btn-danger, html.sd-theme .btn-danger.active, html.sd-theme .btn-danger:active, .show>.btn-danger.dropdown-toggle {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224
+}
+html.sd-theme .btn-check:active+.btn-danger:focus, html.sd-theme .btn-check:checked+.btn-danger:focus, html.sd-theme .btn-danger.active:focus, html.sd-theme .btn-danger:active:focus, .show>.btn-danger.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .25rem rgba(110, 75, 75, 0.5)
+}
+html.sd-theme .btn-danger.disabled, html.sd-theme .btn-danger:disabled {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224
+}
+
+
+html.sd-theme .btn-outline-danger {
+	color: #ff0000;
+	border-color: #502224
+}
+html.sd-theme .btn-outline-danger:hover {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224
+}
+html.sd-theme .btn-check:focus+.btn-outline-danger, html.sd-theme .btn-outline-danger:focus {
+	box-shadow: 0 0 0 .25rem rgba(110, 75, 75, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-outline-danger, html.sd-theme .btn-check:checked+.btn-outline-danger, html.sd-theme .btn-outline-danger.active, html.sd-theme .btn-outline-danger.dropdown-toggle.show, html.sd-theme .btn-outline-danger:active {
+	color: #fff;
+	background-color: #ff0000;
+	border-color: #502224
+}
+html.sd-theme .btn-check:active+.btn-outline-danger:focus, html.sd-theme .btn-check:checked+.btn-outline-danger:focus, html.sd-theme .btn-outline-danger.active:focus, html.sd-theme .btn-outline-danger.dropdown-toggle.show:focus, html.sd-theme .btn-outline-danger:active:focus {
+	box-shadow: 0 0 0 .25rem rgba(110, 75, 75, 0.5)
+}
+html.sd-theme .btn-outline-danger.disabled, html.sd-theme .btn-outline-danger:disabled {
+	color: #ff0000;
+	background-color: transparent
+}
+html.sd-theme .bg-danger {
+	background-color: #502224 !important;
+	color: #fff;
+  }
+html.sd-theme .bg-light-danger {
+	background-color: #f1bec1 !important;
+	color: #502224;
+  }
+
+
+html.sd-theme .btn-success {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-success:hover {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-check:focus+.btn-success, html.sd-theme .btn-success:focus {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48;
+	box-shadow: 0 0 0 .25rem rgba(46, 77, 72, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-success, html.sd-theme .btn-check:checked+.btn-success, html.sd-theme .btn-success.active, html.sd-theme .btn-success:active, .show>.btn-success.dropdown-toggle {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-check:active+.btn-success:focus, html.sd-theme .btn-check:checked+.btn-success:focus, html.sd-theme .btn-success.active:focus, html.sd-theme .btn-success:active:focus, .show>.btn-success.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .25rem rgba(46, 77, 72, 0.5)
+}
+html.sd-theme .btn-success.disabled, html.sd-theme .btn-success:disabled {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+
+
+html.sd-theme .btn-outline-success {
+	color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-outline-success:hover {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-check:focus+.btn-outline-success, html.sd-theme .btn-outline-success:focus {
+	box-shadow: 0 0 0 .25rem rgba(46, 77, 72, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-outline-success, html.sd-theme .btn-check:checked+.btn-outline-success, html.sd-theme .btn-outline-success.active, html.sd-theme .btn-outline-success.dropdown-toggle.show, html.sd-theme .btn-outline-success:active {
+	color: #fff;
+	background-color: #335e58;
+	border-color: #2e4d48
+}
+html.sd-theme .btn-check:active+.btn-outline-success:focus, html.sd-theme .btn-check:checked+.btn-outline-success:focus, html.sd-theme .btn-outline-success.active:focus, html.sd-theme .btn-outline-success.dropdown-toggle.show:focus, html.sd-theme .btn-outline-success:active:focus {
+	box-shadow: 0 0 0 .25rem rgba(46, 77, 72, 0.5)
+}
+html.sd-theme .btn-outline-success.disabled, html.sd-theme .btn-outline-success:disabled {
+	color: #335e58;
+	background-color: transparent
+}
+html.sd-theme .bg-success {
+	background-color: #335e58 !important;
+	color: #fff;
+  }
+html.sd-theme .bg-light-success {
+	background-color: #dafcf7 !important;
+	color: #335e58;
+  }
+
+
+html.sd-theme .btn-warning {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-warning:hover {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-check:focus+.btn-warning, html.sd-theme .btn-warning:focus {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03;
+	box-shadow: 0 0 0 .25rem rgba(207, 170, 3, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-warning, html.sd-theme .btn-check:checked+.btn-warning, html.sd-theme .btn-warning.active, html.sd-theme .btn-warning:active, .show>.btn-warning.dropdown-toggle {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-check:active+.btn-warning:focus, html.sd-theme .btn-check:checked+.btn-warning:focus, html.sd-theme .btn-warning.active:focus, html.sd-theme .btn-warning:active:focus, .show>.btn-warning.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .25rem rgba(207, 170, 3, 0.5)
+}
+html.sd-theme .btn-warning.disabled, html.sd-theme .btn-warning:disabled {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+
+
+html.sd-theme .btn-outline-warning {
+	color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-outline-warning:hover {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-check:focus+.btn-outline-warning, html.sd-theme .btn-outline-warning:focus {
+	box-shadow: 0 0 0 .25rem rgba(207, 170, 3, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-outline-warning, html.sd-theme .btn-check:checked+.btn-outline-warning, html.sd-theme .btn-outline-warning.active, html.sd-theme .btn-outline-warning.dropdown-toggle.show, html.sd-theme .btn-outline-warning:active {
+	color: #fff;
+	background-color: #be6805;
+	border-color: #cfaa03
+}
+html.sd-theme .btn-check:active+.btn-outline-warning:focus, html.sd-theme .btn-check:checked+.btn-outline-warning:focus, html.sd-theme .btn-outline-warning.active:focus, html.sd-theme .btn-outline-warning.dropdown-toggle.show:focus, html.sd-theme .btn-outline-warning:active:focus {
+	box-shadow: 0 0 0 .25rem rgba(207, 170, 3, 0.5)
+}
+html.sd-theme .btn-outline-warning.disabled, html.sd-theme .btn-outline-warning:disabled {
+	color: #be6805;
+	background-color: transparent
+}
+html.sd-theme .bg-warning {
+	background-color: #af920d !important;
+	color: #fff;
+  }
+html.sd-theme .bg-light-warning {
+	background-color: #f8f4e2 !important;
+	color: #927802;
+  }
+
+html.sd-theme .btn-info {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-info:hover {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-check:focus+.btn-info, html.sd-theme .btn-info:focus {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a;
+	box-shadow: 0 0 0 .25rem rgba(3, 193, 207, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-info, html.sd-theme .btn-check:checked+.btn-info, html.sd-theme .btn-info.active, html.sd-theme .btn-info:active, .show>.btn-info.dropdown-toggle {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-check:active+.btn-info:focus, html.sd-theme .btn-check:checked+.btn-info:focus, html.sd-theme .btn-info.active:focus, html.sd-theme .btn-info:active:focus, .show>.btn-info.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .25rem rgba(3, 193, 207, 0.5)
+}
+html.sd-theme .btn-info.disabled, html.sd-theme .btn-info:disabled {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+
+
+html.sd-theme .btn-outline-info {
+	color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-outline-info:hover {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-check:focus+.btn-outline-info, html.sd-theme .btn-outline-info:focus {
+	box-shadow: 0 0 0 .25rem rgba(3, 193, 207, 0.5)
+}
+html.sd-theme .btn-check:active+.btn-outline-info, html.sd-theme .btn-check:checked+.btn-outline-info, html.sd-theme .btn-outline-info.active, html.sd-theme .btn-outline-info.dropdown-toggle.show, html.sd-theme .btn-outline-info:active {
+	color: #fff;
+	background-color: #477f8d;
+	border-color: #2e7c8a
+}
+html.sd-theme .btn-check:active+.btn-outline-info:focus, html.sd-theme .btn-check:checked+.btn-outline-info:focus, html.sd-theme .btn-outline-info.active:focus, html.sd-theme .btn-outline-info.dropdown-toggle.show:focus, html.sd-theme .btn-outline-info:active:focus {
+	box-shadow: 0 0 0 .25rem rgba(3, 193, 207, 0.5)
+}
+html.sd-theme .btn-outline-info.disabled, html.sd-theme .btn-outline-info:disabled {
+	color: #477f8d;
+	background-color: transparent
+}
+html.sd-theme .bg-info {
+	background-color: #477f8d !important;
+	color: #fff;
+  }
+html.sd-theme .bg-light-info {
+	background-color: #d4f6ff !important;
+	color: #477f8d;
+  }
+
+/* Gaya saat tombol pagination aktif */
+html.sd-theme .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background-color: #8e9499 !important;
+    color: #fff !important;
+}
+
+/* Hover effect pada tombol pagination */
+html.sd-theme .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #741111 !important;
+    color: #741111 !important;
+}
+/* Hover effect pada tombol pagination */
+html.sd-theme .dataTables_wrapper .dataTables_paginate .paginate_button:active {
+    background-color: #741111 !important;
+    color: #741111 !important;
+}
+
+/* Menyesuaikan ukuran tombol eksport */
+html.sd-theme .dt-buttons .btn {
+    background-color: #741111 !important; /* Warna hijau */	
+    color: white !important;
+	border-color: #f4f4f4 !important;
+}
+
+/* Hover effect pada tombol ekspor */
+html.sd-theme .dt-buttons .btn:hover {
+    background-color: #741111 !important;
+}
+
+ 
+/* Mengubah warna tombol Prev dan Next */
+html.sd-theme .dataTables_wrapper .dataTables_paginate .paginate_button {
+    background-color: #bfcbd4 !important; /* Merah muda */
+    color: #441717 !important; /* Merah gelap */
+    border-radius: 5px;
+}
+
+ /* Ubah warna tombol aktif */
+ html.sd-theme .pagination .page-item.active .page-link {
+    background-color: #5f5656 !important; /* Merah */
+    border-color: #5a4848 !important;
+    color: white !important;
+}
+
+/* Ubah warna tombol pagination lainnya */
+html.sd-theme .pagination .page-item .page-link {
+    background-color: #bfcbd4 !important; /* Merah muda */
+    border-color: #741111 !important;
+    color: #741111 !important; /* Merah tua */
+}
+
+/* Hover efek pada tombol pagination */
+html.sd-theme .pagination .page-item .page-link:hover {
+    background-color: #5b3e3e !important; /* Merah lebih gelap */
+    border-color: #5b3e3e !important;
+    color: white !important;
+}
+
+/* Ubah warna tombol "Prev" dan "Next" */
+html.sd-theme .pagination .page-item.previous .page-link,
+html.sd-theme .pagination .page-item.next .page-link {
+    background-color: #bfcbd4 !important; /* Merah muda */
+    color: #741111 !important;
+}
+
+/* Hover efek pada tombol "Prev" dan "Next" */
+html.sd-theme .pagination .page-item.previous .page-link:hover,
+html.sd-theme .pagination .page-item.next .page-link:hover {
+    background-color: #5b3e3e !important; /* Merah lebih gelap */
+    color: white !important;
+}
+
+/* Ubah warna tombol disabled */
+html.sd-theme .pagination .page-item.disabled .page-link {
+    background-color: #f1f1f1 !important;
+    color: #b0b0b0 !important;
+}
+/* Ubah warna dropdown secara umum */
+html.sd-theme .dt-button-collection.dropdown-menu {
+    background-color: #bfcbd4 !important; /* Merah muda */
+    border: 1px solid #5b3e3e !important; /* Border merah */
+}
+
+/* Ubah warna teks dalam dropdown */
+html.sd-theme .dt-button-collection.dropdown-menu .dt-button {
+    color: #741111 !important; /* Merah tua */
+}
+
+/* Ubah warna item dropdown saat di-hover */
+html.sd-theme .dt-button-collection.dropdown-menu .dt-button:hover {
+    background-color: #5b3e3e !important; /* Merah */
+    color: white !important;
+}
+
+/* Ubah warna untuk item yang aktif */
+html.sd-theme .dt-button-collection.dropdown-menu .dt-button.active {
+    background-color: #741111 !important; /* Merah lebih gelap */
+    color: white !important;
+}
+
+/* Ubah warna latar belakang setiap baris ganjil */
+html.sd-theme .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #bfcbd4 !important; /* Warna merah muda */
+}
+
+/* Ubah warna teks agar kontras */
+html.sd-theme .table-striped tbody tr:nth-of-type(odd) td {
+    color: #462121 !important; /* Warna merah tua */
+}
+
+/* Ubah warna latar belakang saat baris di-hover */
+html.sd-theme .table-striped tbody tr:hover {
+    background-color: #bfcbd4 !important; /* Warna merah */ 
+}
+
+
+/* Mengubah warna dropdown saat opsi belum dipilih */
+html.sd-theme select.form-control option {
+    background-color: #bfcbd4 !important; /* Merah muda */
+    color: black !important; /* Warna teks hitam agar mudah dibaca */
+}
+
+/* Mengubah warna opsi yang sedang di-hover (saat mouse berada di atasnya) */
+html.sd-theme select.form-control option:hover {
+    background-color: #741111 !important; /* Warna merah saat dihover */
+    color: white !important; /* Warna teks putih */
+}
+
+/* **Solusi utama**: Mengubah warna latar opsi yang sedang dipilih */
+html.sd-theme select.form-control option:checked {
+    background-color: rgb(80, 75, 75) !important; /* Merah tua */
+    color: white !important; /* Warna teks putih */
+}
+
+/* Untuk tampilan dropdown di Firefox */
+html.sd-theme select.form-control:-moz-focusring {
+    color: white !important;
+    background: rgb(43, 42, 42) !important;
+}
+
+/* Mengubah warna scrollbar dropdown agar serasi */
+html.sd-theme   select.form-control::-webkit-scrollbar {
+    width: 8px;
+}
+
+html.sd-theme   select.form-control::-webkit-scrollbar-thumb {
+    background: #741111;
+    border-radius: 4px;
+}
+
+html.sd-theme   select.form-control::-webkit-scrollbar-track {
+    background: #bfcbd4;
+}
+
+
+html.minimal-theme .topbar {
+	background: #f4f4f4;
+	border-bottom: 1px solid #dee2e6;
+	box-shadow: none!important
+}
+html.minimal-theme .topbar .search-control {
+	background-color: #fff;
+	border: 1px solid #dee2e6
+}
+html.minimal-theme .topbar .user-box {
+	border-left: 1px solid #dee2e6
+}
+html.minimal-theme .sidebar-wrapper {
+	background: #f4f4f4;
+	border-right: 1px solid #dee2e6;
+	box-shadow: none!important
+}
+html.minimal-theme .sidebar-header {
+	background: #f4f4f4;
+	border-bottom: 1px solid #dee2e6;
+	background-clip: padding-box
+}
+@media screen and (min-width:1025px) {
+	html.minimal-theme .wrapper.toggled.sidebar-hovered .sidebar-wrapper {
+		box-shadow: 0 .3rem .8rem rgba(0, 0, 0, .12)!important
+	}
+}

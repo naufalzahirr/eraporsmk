@@ -1,0 +1,24 @@
+=======================
+Aplikasi e-Rapor SMK
+=======================
+
+e-Rapor SMK adalah aplikasi/perangkat lunak berbasis web yang berfungsi untuk menyusun laporan capaian kompetensi peserta didik (Rapor) pada satuan pendidikan di tingkat Sekolah Menengah Kejuruan (SMK).  
+
+Aplikasi e-Rapor SMK digunakan untuk kepentingan sekolah dalam mengelola dan menyusun laporan capaian kompetensi peserta didik (Rapor) pada satuan pendidikan jenjang Sekolah Menengah Kejuruan (SMK).
+
+Data yang diolah dalam aplikasi ini tetap menjadi tanggung jawab masing-masing sekolah pengguna.
+
+Pengguna wajib menjaga kerahasiaan akun serta melakukan pencadangan data secara berkala.
+
+Tim pengembang tidak bertanggung jawab atas kerugian akibat kesalahan penggunaan di luar panduan resmi.
+
+Apabila Anda setuju dengan ketentuan di atas, silakan klik Setuju untuk melanjutkan proses instalasi.
+
+
+Versi Aplikasi: V.2025.1
+
+pengembang
+
+
+## Dilarang memodifikasi dan memperjual-belikan aplikasi ini tanpa seijin Pengembang ##
+@2025

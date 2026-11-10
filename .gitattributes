@@ -1,0 +1,7 @@
+# Pertahankan byte file aplikasi ionCube dan dependency dari installer.
+/app/** -text
+/vendor/** -text
+/public/** -text
+/deploy/*.sh text eol=lf
+/deploy/*.php text eol=lf
+/.cpanel.yml text eol=lf
